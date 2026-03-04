@@ -79,8 +79,9 @@ ILogger ile loglama yapılır:
 
 ## Çalıştırma (CLI)
 
-dotnet restore
-dotnet run
+-dotnet restore
+
+-dotnet run
 
 Çalıştırdıktan sonra Swagger UI:
 - /swagger
